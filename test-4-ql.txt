@@ -1,0 +1,6 @@
+M
+1
+1
+//sample M mode input file, 1 1x1 level
+//level 0
+.
